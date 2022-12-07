@@ -1,3 +1,6 @@
+/*Escreva uma função que obtém o espelho de uma árvore, ou seja, troca a subárvore
+direita pela subárvore esquerda de todos os nós da árvore
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include <malloc.h>
